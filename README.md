@@ -37,7 +37,7 @@ Usage: `.search <appname>`
 ![](https://i.imgur.com/DdL7MFP.png)
 
 ### ADD
-Users can add applications to their watch-list using the applications bundle identifier. Multiple applications can be added at once by separating the bundle identifiers with a whitespace.
+Users can add applications to their watch-list using the applications bundle identifier.
 
 Usage: `.add <bundle identifier>`
 
