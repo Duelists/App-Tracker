@@ -22,6 +22,7 @@ Each user has their own “watch-list”, a track list where the user’s applic
 
 Running the command will send a message with all the applications in the watch-list listed, along with their bundle identifier, version, name and status (up-to-date or outdated). Passing the parameter "o" will yield a list with only the outdated applications.
 
+Aliases: .watchlist OR .wl
 Usage: `.watchlist OR .wl o`
 
 ![](https://i.imgur.com/JTdwnIb.png)
