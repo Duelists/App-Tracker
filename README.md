@@ -1,19 +1,18 @@
 # Introducing App Tracker!
 
-What is App Tracker:
+###What is App Tracker:
 - App Tracker is an all in one discord bot that is completely FREE to use for every single person.
 - This bot was created to be able to track app updates for any app on the Apple App Store, and most importantly send you a notification whenever an app is updated.
 - The bot will come in handy for many mod makers here on iOSGods as tracking app updates, notifying the mod maker and keeping a list of apps that need updated has been simplified. See the full list of features below for more information.
 
-Bot Features:
+###Bot Features:
 - Watch-list
 https://i.imgur.com/JTdwnIb.png
 
 
 - Add/Remove Apps to be tracked with ease
 ![Add](https://i.imgur.com/vwB5LXE.png)
-https://i.imgur.com/vwB5LXE.png
-https://i.imgur.com/OBObW1D.png
+![Remove](https://i.imgur.com/OBObW1D.png)
 
 - Apple App Store search
 https://i.imgur.com/DdL7MFP.png
