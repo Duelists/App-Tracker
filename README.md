@@ -6,8 +6,8 @@ What is App Tracker:
 - The bot will come in handy for many mod makers here on iOSGods as tracking app updates, notifying the mod maker and keeping a list of apps that need updated has been simplified. See the full list of features below for more information.
 
 Bot Features:
-Watch-list
-![Watchlist](https://i.imgur.com/JTdwnIb.png)
+- Watch-list
+- ![Watchlist](https://i.imgur.com/JTdwnIb.png)
 
 
 - Add/Remove Apps to be tracked with ease
