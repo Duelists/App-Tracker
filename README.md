@@ -11,8 +11,8 @@ https://i.imgur.com/JTdwnIb.png
 
 
 - Add/Remove Apps to be tracked with ease
- ![Add](https://i.imgur.com/vwB5LXE.png)
- ![Remove](https://i.imgur.com/OBObW1D.png)
+- ![Add](https://i.imgur.com/vwB5LXE.png)
+- ![Remove](https://i.imgur.com/OBObW1D.png)
 
 - Apple App Store search
 https://i.imgur.com/DdL7MFP.png
