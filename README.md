@@ -20,7 +20,7 @@ More in depth info can be found here:
 
 
 #### WATCH-LIST
-Each user has their own “watch-list”, a track list where the user’s applications will be managed through. This list contains all the user’s application and can only be managed by the corresponding user. The user can add, remove and update this list. A maximum of 3 applications is allowed per user. Contact me via iOSGods if you make mods and want to be whitelisted to add more!
+Each user has their own “watch-list”, a track list where the user’s applications will be managed through. This list contains all the user’s application and can only be managed by the corresponding user. The user can add, remove and update this list. A maximum of 5 applications is allowed per user unless you're whitelisted. Contact me via iOSGods if you make mods and want to be whitelisted to track as many as you want!
 
 Running the command will send a message with all the applications in the watch-list listed, along with their bundle identifier, version, name and status (up-to-date or outdated). Passing the parameter "o" will yield a list with only the outdated applications.
 
