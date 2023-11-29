@@ -7,7 +7,7 @@ What is App Tracker:
 
 Bot Features:
 Watch-list
-![Watchlist]https://i.imgur.com/JTdwnIb.png
+![Watchlist](https://i.imgur.com/JTdwnIb.png)
 
 
 - Add/Remove Apps to be tracked with ease
