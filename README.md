@@ -11,6 +11,7 @@ https://i.imgur.com/JTdwnIb.png
 
 
 - Add/Remove Apps to be tracked with ease
+![Add](https://i.imgur.com/vwB5LXE.png)
 https://i.imgur.com/vwB5LXE.png
 https://i.imgur.com/OBObW1D.png
 
