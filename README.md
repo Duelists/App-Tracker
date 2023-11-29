@@ -31,15 +31,15 @@ Bot Features:
 Bot Commands:
 The prefix for all commands is ( . )
 
-Watch-List
-Aliases: .watchlist OR .wl
-Usage: .watchlist o
+- Watch-List
+- Aliases: .watchlist OR .wl
+- Usage: .watchlist o
 Description: Your personal watch-list, can be sorted by 'o' for only outdated applications
 
-Add
-Aliases: .add OR .a
-Usage: .add <bundle identifier>
-Description: Adds an application to your watch-list
+- Add
+- Aliases: .add OR .a
+- Usage: .add <bundle identifier>
+- Description: Adds an application to your watch-list
 
 Remove
 Aliases: .remove OR .r
