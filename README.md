@@ -4,6 +4,8 @@
 
 Invite to your server: https://discord.com/oauth2/authorize?client_id=1175934288332607668&scope=bot&permissions=8
 
+More in depth info can be found here: 
+
 ***
 
 #### TABLE OF CONTENTS (COMMANDS)
